@@ -10,8 +10,8 @@
 ### 9 7 den büyük 7 nin sağına, 8 den büyük 8 in sağına
 ### 4 7 den küçük 7 nin soluna, 1 den büyük 1 in sağına, 3 ten büyük 3 ün sağına
 ### 2 7 den küçük 7 nin sağına, 1 den büyük 1 in sağına, 3 ten küçük 3 ün soluna 
-`                    7                  
-`         5                     8
-`   1           6                     9
-`0      3           
-`     2   4
+.                    7                  
+.         5                     8
+.   1           6                     9
+.0      3           
+.     2   4
